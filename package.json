@@ -3,8 +3,8 @@
   "version": "0.4.0",
   "description": "BPJS Electron app",
   "main": "index.js",
-  "repository": "git@github.com:yamalight/bpjs-electron.git",
-  "author": "Tim Ermilov <yamalight@gmail.com>",
+  "repository": "",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "start": "NODE_ENV=test electron .",
