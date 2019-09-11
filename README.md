@@ -1,8 +1,4 @@
-# Building Electron.js app with javascript
 
-> Free open-source course
-
-This repository contains code and related materials for [Building Electron.js apps with javascript](https://www.youtube.com/playlist?list=PL_gX69xPLi-lBH8I52J-3nEhEQD6_nDs6) course.
 
 ## Project description
 
@@ -11,21 +7,10 @@ It uses [axios](https://github.com/mzabriskie/axios) and [cheerio](https://githu
 Electron.js is tested using [mocha](https://mochajs.org/) and [spectron](https://github.com/electron/spectron).
 [electron-builder](https://github.com/electron-userland/electron-builder) is used for deployment.
 
-## Useful links
-
-- [YouTube channel](https://www.youtube.com/c/TimErmilov) with videos covering code
-- [Discord chat](https://discord.gg/hnKCXqQ) for questions and live discussions
-- [Subreddit](https://www.reddit.com/r/BuildingWithJS/) for discussions
-- [Facebook page](https://www.facebook.com/buildingproductswithjs/) with updates on progress
-- [My twitter](https://twitter.com/yamalight) with updates on progress (and other stuff)
 
 ## Course 1: Building products with javascript
 
 My first course on building products with javascript can be found [here](https://github.com/yamalight/building-products-with-js) and [here](https://www.youtube.com/playlist?list=PL_gX69xPLi-ljVdNhspjZUlPmBNjRgD2X).
-
-## Course 3: Building Data Science apps
-
-My third course on building data science apps can be found [here](https://github.com/BuildingXwithJS/building-data-science-with-js) and [here](https://www.youtube.com/playlist?list=PL_gX69xPLi-lGe7iRt6DqTZ7PpIrNq8ep).
 
 
 ## License
